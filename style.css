@@ -1,5 +1,4 @@
 *{
-    outline: 1px solid red;
     font-family: "Roboto"
 }
 
@@ -69,3 +68,7 @@
     margin-left: 2rem;
 }
 
+
+.box-information p{
+    transform: translate(-20px,-32px);
+}
