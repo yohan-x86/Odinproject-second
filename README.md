@@ -5,3 +5,4 @@
 ## languages used 
 - html and 
 - css
+- js

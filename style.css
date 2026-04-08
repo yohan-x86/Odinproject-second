@@ -72,3 +72,18 @@
 .box-information p{
     transform: translate(-20px,-32px);
 }
+
+.quote-container{
+    display: flex;
+    padding: 5rem 2rem;
+    justify-content: center;
+}
+
+section quote{
+    transform: translate(0, 70%);
+    color: lightblue;
+    padding-right: inherit;
+    padding-left: inherit; 
+    background-image: url("./mikasa.jpg");
+    background-size: cover;
+}
